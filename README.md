@@ -1,6 +1,5 @@
 Vrinda Store Sales Analysis using Excel 
 
-Source of Dataset : https://bit.ly/3Ypatqu
 Tools Used: Microsoft Excel
 
 Objective: Vrinda store wants to create an annual sales report for 2022.So that,Vrinda can undersatad their customers and grow more sales in 2023.
